@@ -1,0 +1,5 @@
+com/mycompany/blogapp/resources/PostResource.class
+com/mycompany/blogapp/ejb/PostBean.class
+com/mycompany/blogapp/entities/Posts.class
+com/mycompany/blogapp/entities/Posts_.class
+com/mycompany/blogapp/config/PostConfig.class
